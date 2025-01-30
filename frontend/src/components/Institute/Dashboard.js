@@ -60,7 +60,7 @@ const Dashboard = () => {
           stats.totalInstitutes,
           stats.totalApplications,
         ],
-        backgroundColor: "rgba(54, 162, 235, 0.6)", // Single color for all bars
+        backgroundColor: "rgba(30, 58, 138, 1)", // Single color for all bars
         borderWidth: 1,
       },
     ],

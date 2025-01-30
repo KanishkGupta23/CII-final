@@ -54,7 +54,7 @@ const Navbar = () => {
         {/* Logo on the left */}
         <div className="h-24 flex items-center px-6">
           <div className="text-2xl font-bold">
-            <img src="logo.jpg" className="w-52 h-14" alt="Logo" />
+            <img src="./logo.jpg" className="w-52 h-14" alt="Logo" />
           </div>
 
           {/* Links on the right */}

@@ -2,10 +2,10 @@ import React from 'react';
 
 const MyApplications = () => {
     const applications = [
-        { title: 'Project Manager', company: 'TCS', dateApplied: 'Feb. 21, 2023, 6:26 p.m.' },
-        { title: 'Project Manager', company: 'TCS', dateApplied: 'Feb. 21, 2023, 6:26 p.m.' },
-        { title: 'Project Manager', company: 'TCS', dateApplied: 'Feb. 21, 2023, 6:26 p.m.' },
-        { title: 'Project Manager', company: 'TCS', dateApplied: 'Oct. 3, 2024, 6:59 a.m.' },
+        { title: 'Software Engineer', company: 'TCS', dateApplied: 'Dec. 21, 2024, 6:26 p.m.' },
+        { title: 'Project Manager', company: 'Addverb', dateApplied: 'Dec. 11, 2024, 3:56 p.m.' },
+        { title: 'Product Manager', company: 'Accenture', dateApplied: 'Nov. 2, 2024, 6:00 p.m.' },
+        { title: 'Data Analyst', company: 'Deloitte', dateApplied: 'Oct. 3, 2024, 6:59 a.m.' },
     ];
 
     return (
